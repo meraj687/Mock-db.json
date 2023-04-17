@@ -1,12 +1,18 @@
 {
-  "users": [
-    {
-      "name": "ef",
-      "username": "wa",
-      "email": "wdfedwedw@gmail.com",
-      "phone": "fdwasdsa",
-      "website": "wasd",
-      "id": 1
-    }
+  "users"  : [
+      {
+          "name"  : "Mohammad Aryaan",
+          "DOB" : "15/08/1999" , 
+          "Accenture_Anniversary" : "18/02/2022" , 
+          "Hobbies" : "Web Designing"
+          
+      },
+      {
+          "name"  : "Mahankali Vangmai",
+          "DOB" : "6/12/2000" , 
+          "Accenture_Anniversary" : "10/10/2022" , 
+          "Hobbies" : "Cooking and Surfing Internet"
+          
+      }
   ]
 }
